@@ -6,7 +6,7 @@ Exercises and other lesson 8 stuffs
 
 ## To run jupyter notebook
 
-````shell
+```bash
 make run
 ```
 

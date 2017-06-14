@@ -6,7 +6,7 @@ First neural network project to predict bike sharing rides
 
 ## To run jupyter notebook
 
-````shell
+```bash
 make run
 ```
 
